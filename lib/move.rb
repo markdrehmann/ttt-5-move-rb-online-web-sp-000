@@ -9,3 +9,4 @@ end
 def input_to_index(number)
   number = gets.strip
   number.to_i
+end
