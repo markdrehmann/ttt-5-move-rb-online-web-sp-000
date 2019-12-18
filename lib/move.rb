@@ -9,3 +9,6 @@ end
 def input_to_index(number)
   number.to_i - 1
 end
+
+board = [" "," "," "," "," "," "," "," "," "]
+def move(array, )
